@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Difference Of Squares Test",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest difference_of_squares_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
